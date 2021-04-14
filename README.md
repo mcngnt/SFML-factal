@@ -3,7 +3,7 @@
 
 ![](res/julia.png)
 
-##Controls
+## Controls
 - Arrow keys to move the camera
 - Tab and space to zoom in and out
 - X to enable/disable the influence of the number of steps on the alpha channel
