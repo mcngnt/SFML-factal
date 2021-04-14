@@ -1,4 +1,4 @@
-# SFML-factal
+# SFML-fractal
  Small fractal visualizer in SFML
 
 ![](res/julia.png)
